@@ -12,3 +12,4 @@ print(f"Está em maiúsculo? {algo.isupper()}")
 print(f"Está em minúsculo? {algo.islower()}")
 print(f"Apenas a primeira letra é maiúscula? {algo.istitle()}")
 print(f"Tem apenas espaços? {algo.isspace()}")
+
