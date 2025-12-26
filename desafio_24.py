@@ -3,7 +3,7 @@
 
 # Forma 1 
 
-cidade = input("Digite o nome de uma cidade: ").upper()
+cidade = input("Digite o nome de uma cidade: ").strip().upper()
 encontre = cidade.find("SANTO", 0, 5)
 if encontre == -1:
     print("A cidade NÃO começa com a palavra 'Santo'")
