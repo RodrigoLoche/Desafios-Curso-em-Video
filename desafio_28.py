@@ -11,5 +11,5 @@ guess = int(input("Adivinhe o número que o computador pensou de (0 á 5): "))
 if guess == num:
     print("Você acertou!")
 else:
-    print(f"Você errou! o número era {num}")
+    print(f"Você errou! o número era {num}.")
     
