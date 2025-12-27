@@ -22,3 +22,5 @@ else:
 
 novo_salario = salario + aumento
 print(f"Seu novo salário será de: R${novo_salario:.2f}")
+
+
